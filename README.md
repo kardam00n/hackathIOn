@@ -26,4 +26,4 @@ Gra polegająca na odnalezieniu par - logo języków programowania.
 
 ## [Screeny](docs/preview.md)
 
-## [Dokumentacja techniczna](./dosc/technical_readme.md)
+## [Dokumentacja techniczna](./docs/technical_readme.md)
