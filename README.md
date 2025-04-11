@@ -1,29 +1,33 @@
 # WI are the champions
+#### [For the polish version click here](README_PL.md)
 
-## Opis projektu
+Mobile game for attendees of the Open Days at the Faculty of Computer Science at AGH University of Science and Technology in Krakow.
+The game allows the players to see what it is to be a student of the Faculty of Computer Science.
+The players choose their career path, which they develop by completing tasks during the open day.
 
-Gra kompetytywna fabularna przygotowana dla osób biorących udział w dniach otwartych Wydziału Informatyki na Akademii Górniczo Hutniczej w Krakowie. 
-Gracze wybierają swoją ścieżkę kariery, którą rozwijają poprzez wykonywanie zadań w trakcie dnia otwartego. 
-Każda gra jest ukryta, do której dostęp uzyskujemy poprzez kod. 
-Kod otrzymujemy po odwiedzeniu konkretnych stanowisk -> mini gra związana z tematyką. 
-Dodatkowe gry mogą być ukryte na terenie Wydziału (niepowiązane z żadnym ze stanowisk). 
-Za poprawne rozwiązanie gracz otrzymuje punkty (w postaci stawki godzinowej). 
-Punkty są zestawiane w ogólnym rankingu. 
-Gracze na koniec dnia otrzymują rangę która odpowiada danej stawce godzinowej. 
-Dla osób z najwyższymi wyniki przewidywana jest nagroda.
+Each game is hidden, and access is obtained through a code.
+The code is obtained by visiting specific stands during the event.
+Additional games may be hidden on the premises of the Faculty (not related to any of the stands).
+
+For a correct solution, the player receives points.
+Points are represented as an hourly pay rate (because money is the best motivation to learn).
+Points are compiled in an overall ranking.
+At the end of the day, players receive a rank corresponding to a given hourly rate.
+Players with the highest score are expected to receive a prize.
+
 
 ## Minigry
 ### 1. Quiz 
-Gracz odpowiada na pytania związane z tematyką stanowiska/sali.
+Simple quiz game where the student answers questions related to the topic of the corresponding stand/room.
 ### 2. WIGuesser
-Gracz musi znaleźć miejsce w którym zostało wykonane zdjęcie i podać numer najbliższej sali.
-### 3. Oszukaj chata promptem
-Gracz musi spróbować oszukać chatbota, żeby dowiedzieć się jakie jest hasło.
-### 4. Połącz kable
-Gracz musi połączyć kabelki, tak aby wszytsko działało ;).
+The student must identify which room the photo was taken in and provide its number. The game is based on GeoGuessr.
+### 3. Deceive the chatbot
+The student must try to deceive the chatbot to find out what the password is.
+### 4. Connect the cables
+The student needs to connect the cables so that everything works.
 ### 5. Memory
-Gra polegająca na odnalezieniu par - logo języków programowania.
+Simple game where the student needs to find pairs of programming language logos.
 
-## [Screeny](docs/preview.md)
+## [Screenshots](docs/eng/preview.md)
 
-## [Dokumentacja techniczna](./docs/technical_readme.md)
+## [Technical ReadMe](docs/eng/technical_readme.md)
