@@ -16,7 +16,7 @@ At the end of the day, players receive a rank corresponding to a given hourly ra
 Players with the highest score are expected to receive a prize.
 
 
-## Minigry
+## Mini-games
 ### 1. Quiz 
 Simple quiz game where the student answers questions related to the topic of the corresponding stand/room.
 ### 2. WIGuesser
